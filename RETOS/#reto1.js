@@ -1,4 +1,4 @@
-let tect1, text2
+let text1, text2
 let sumText1 = 0
 let sumText2 = 0
 const checkPalabras = (text1, text2) =>{
